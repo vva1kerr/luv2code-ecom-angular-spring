@@ -1,0 +1,51 @@
+03-frontend/angular-ecommerce/node_modules/*
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Eclipse Maven plugin
+.classpath
+.project
+.settings/
+
+# IntelliJ
+*.iml
+.idea/
+out/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Spring Boot devtools
+.spring-boot-devtools.properties
+
+# Docker
+*.env
+docker-compose.override.yml
+
+# angular
+.angular/
