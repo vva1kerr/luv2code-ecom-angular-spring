@@ -1,6 +1,31 @@
 
 
 
+
+
+![](/luv2code-ecom-angular-spring/assets/Screenshot-2025-06-13-160430.png)
+
+![](/luv2code-ecom-angular-spring/assets/Screenshot-2025-06-13-160519.png)
+
+![](/luv2code-ecom-angular-spring/assets/Screenshot-2025-06-13-160538.png)
+
+![](/luv2code-ecom-angular-spring/assets/Screenshot-2025-06-13-160603.png)
+
+![](/luv2code-ecom-angular-spring/assets/Screenshot-2025-06-13-160408.png)
+
+![](/luv2code-ecom-angular-spring/assets/Screenshot-2025-06-13-160330.png)
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 344  sudo apt update
 345  sudo apt search openjdk
